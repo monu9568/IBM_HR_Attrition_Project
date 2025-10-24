@@ -45,3 +45,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Monu Gupta
 
+
+<img width="1032" height="589" alt="IBM Dashboard" src="https://github.com/user-attachments/assets/7280b220-ea27-4fad-b827-9bcfb7981cef" />
